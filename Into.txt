@@ -1,5 +1,6 @@
-Nous suivons kirby, personnage d'un jeux de plateform développé par Nintendo en 1992, une boule rose qui possède un très gros appétit et
-certains objets, une fois avalés, permettent à Kirby de copier des pouvoirs ou propriétés de l'objet et d'ainsi s'en servir comme une arme ou une montée en grade.
+Nous suivons Kirby, personnage d'un jeu de plateform développé par Nintendo en 1992, une boule rose qui possède un appétit insatiable et
+peut, en avalant certains objets (ou ennemie), permettent de copier les pouvoirs de l'objet ou ennemie avaler et de s'en servire comme arme, amélioration de ses pouvoirs
+ou l'aider a surmonter des obstacle.
 Ce personnage est apparue pour la première fois en 1992 dans le jeux "Kirby's Dream Land".
 
-Mais ici, nous parlerons de kirby après une longue journée de travaille, a le plaisir de succomber aux bras de morphée.
+Mais ici, nous parlerons de kirby après une longue journée de travaille,qui a le plaisir de succomber aux bras de morphée.
